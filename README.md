@@ -1,2 +1,2 @@
 # Verilog
-Few module I wrote in verilog
+Few modules I wrote in verilog
